@@ -1,4 +1,8 @@
-# tabeladeclassificao
+# Tabela de classificação
+
 Tabela para marcar pontos
 
-A cada vitória o jogador recebe 3 pontos, para os empates 1 ponto e derrotas 1 ponto.
+  - O usuário recebe 3 pontos por vitória
+  - Cada empate é gerado 1 ponto
+  - Em derrotas o jogador perde 1 ponto
+
